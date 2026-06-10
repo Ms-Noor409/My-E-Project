@@ -1,11 +1,20 @@
 # My-E-Project
 Full-featured  Noor Jewellry E-Commerce Website with user shopping experience and admin management dashboard.
 
+**Project Description**
 NOOR Jewelry Store E-Commerce
 A modern jewelry store web application built with Python and Flask.
+It includes product browsing, cart system, admin panel for management, database operations, and an AI-based recommendation system using cosine similarity.
 This project includes product display, database integration, and a recommendation system using machine learning.
 
-Features
+**Admin Panel**
+Admin login system
+Add / update / delete products
+Manage product database
+View user orders (if included)
+Dashboard for store control
+
+**Features**
 User-friendly jewelry store UI
 Product listing system
 Database integration
@@ -14,7 +23,7 @@ Responsive frontend
 Flask backend
 Static assets management
 
-Technologies Used
+**Technologies Used:**
 Python
 Flask
 HTML/CSS/JavaScript
@@ -22,7 +31,12 @@ SQLite
 Machine Learning
 Pickle Models
 
-Project Structure
+**Machine Learning**
+Recommendation system using cosine similarity
+Smart product suggestions
+Preprocessed dataset handling
+
+**Project Structure:**
 Bash
 NOOR-JEWELRY-STORE-ECOM/
 │
@@ -42,7 +56,7 @@ NOOR-JEWELRY-STORE-ECOM/
 ├── dataset.pkl
 └── vectorizer.pkl
 
-Installation
+**Installation:**
 1️⃣ Clone Repository
 Bash
 git clone https://github.com/your-username/NOOR-JEWELRY-STORE-ECOM.git
@@ -69,7 +83,9 @@ pip install -r requirements.txt
 Bash
 python main.py
 
-Machine Learning Files:
+**Machine Learning Files:**
 cosine_sim.pkl → similarity matrix
 dataset.pkl → processed dataset
 vectorizer.pkl → text vectorizer
+
+**Thank you**
