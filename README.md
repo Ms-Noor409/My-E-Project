@@ -67,7 +67,7 @@ NOOR-JEWELRY-STORE-ECOM/
 
 1️⃣ Clone Repository
 Bash
-git clone https://github.com/your-username/NOOR-JEWELRY-STORE-ECOM.git
+git clone https://github.com/Ms-Noor409/My-E-Project.git
 2️⃣ Open Project Folder
 Bash
 cd NOOR-JEWELRY-STORE-ECOM
