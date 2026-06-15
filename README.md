@@ -65,29 +65,36 @@ NOOR-JEWELRY-STORE-ECOM/
 
 **Installation:**
 
-1️⃣ Clone Repository
+Clone Repository
+
 Bash
 git clone https://github.com/Ms-Noor409/My-E-Project.git
-2️⃣ Open Project Folder
+
+Open Project Folder
 Bash
 cd NOOR-JEWELRY-STORE-ECOM
-3️⃣ Create Virtual Environment
+
+Create Virtual Environment
 Bash
 python -m venv .venv
-4️⃣ Activate Environment
+
+Activate Environment
 Windows
 Bash
 .venv\Scripts\activate
+
 Linux/Mac
 Bash
 source .venv/bin/activate
-5️⃣ Install Requirements
+
+Install Requirements
 Bash
 pip install flask
-(agar requirements.txt ho to:)
+
 Bash
 pip install -r requirements.txt
-6️⃣ Run Project
+
+Run Project
 Bash
 python main.py
 
