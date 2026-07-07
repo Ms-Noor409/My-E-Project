@@ -1,5 +1,8 @@
 # My-E-Project
 
+<img width="1868" height="853" alt="Screenshot 2026-04-28 134414" src="https://github.com/user-attachments/assets/d1ee107f-6ee7-4340-b5ea-19d34d366d30" />
+
+
 Full-featured  Noor Jewellry E-Commerce Website with user shopping experience and admin management dashboard.
 
 **Project Description:**
