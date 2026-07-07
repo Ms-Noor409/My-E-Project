@@ -1,5 +1,9 @@
 # My-E-Project
 
+<img width="1822" height="873" alt="Screenshot 2026-04-29 013000" src="https://github.com/user-attachments/assets/6c259dd1-2d02-4dea-910f-dcacebd459e1" />
+
+<img width="1840" height="754" alt="Screenshot 2026-04-29 012444" src="https://github.com/user-attachments/assets/4f0c0e9b-0065-49c9-bf8c-2a0a154b7111" />
+
 <img width="1868" height="853" alt="Screenshot 2026-04-28 134414" src="https://github.com/user-attachments/assets/d1ee107f-6ee7-4340-b5ea-19d34d366d30" />
 
 
